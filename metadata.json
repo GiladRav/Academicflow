@@ -1,0 +1,8 @@
+{
+  "name": "AcademiaFlow: College Task Organizer",
+  "description": "A high-performance task management system for college students featuring AI-powered task breakdown, smart prioritization, and collaborative project workspaces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
